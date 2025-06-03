@@ -17,7 +17,7 @@ A real-time sign language recognition system built with Flask, OpenCV, and machi
 
 ## 📁 Project Structure
 
-
+```
 sign-language-flask-app/
 │
 ├── static/                    # (Optional for custom CSS/JS)
@@ -32,7 +32,7 @@ sign-language-flask-app/
 ├── video.py                   # Webcam + Prediction logic
 ├── requirements.txt           # Python dependencies
 └── README.md                  # You're here!
-
+```
 
 
 ## 🚀 Getting Started
