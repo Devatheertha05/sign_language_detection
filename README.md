@@ -14,11 +14,9 @@ A real-time sign language recognition system built with Flask, OpenCV, and machi
 - 🧪 Speech synthesis integration (browser-based)
 - 🛠️ Flask backend for model integration and video streaming
 
----
 
 ## 📁 Project Structure
 
-```
 
 sign-language-flask-app/
 │
@@ -35,9 +33,7 @@ sign-language-flask-app/
 ├── requirements.txt           # Python dependencies
 └── README.md                  # You're here!
 
-````
 
----
 
 ## 🚀 Getting Started
 
@@ -72,7 +68,6 @@ python app.py
 
 Then open your browser and go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
----
 
 ## 🧠 Model Training (Optional)
 
@@ -95,7 +90,6 @@ with open("model/model.pkl", "wb") as f:
     pickle.dump(model, f)
 ```
 
----
 
 ## 🧪 Tech Stack
 
@@ -104,7 +98,6 @@ with open("model/model.pkl", "wb") as f:
 * **ML Model:** RandomForest (scikit-learn)
 * **Others:** OpenCV, Pandas, Pickle
 
----
 
 ## 🔊 Demo
 
@@ -112,7 +105,6 @@ with open("model/model.pkl", "wb") as f:
 * ✋ Predicts hand sign as alphabet
 * 🗣️ Automatically speaks the predicted result
 
----
 
 ## 📦 Dependencies
 
@@ -130,24 +122,20 @@ Typical libraries used:
 * pandas
 * numpy
 
----
 
 ## 📜 License
 
 This project is open-source and free to use.
 
----
 
 ## 🤝 Contributions
 
 Feel free to fork this repository and open a pull request. Suggestions and improvements are welcome!
 
----
 
 ## 🧑‍💻 Author
 
 **Devatheertha**
 [GitHub Profile](https://github.com/Devatheertha05)
 
-```
 
